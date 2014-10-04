@@ -1,0 +1,9 @@
+
+
+原文链接：
+http://www.raywenderlich.com/30288/nsregularexpression-tutorial-and-cheat-sheet
+
+
+笔记：
+校验邮箱正则：
+[a-z0-9!#$%&'*+/=?^_`{|}~-]+(?:\.[a-z0-9!#$%&'*+/=?^_`{|}~-]+)*@(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])?
